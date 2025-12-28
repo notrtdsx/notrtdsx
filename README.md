@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://archlinux.org/) on my Gaming laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://archlinux.org/) on my laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
 
 I just mess around with Python and C++ scripting.
 
