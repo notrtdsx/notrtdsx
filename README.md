@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Bazzite](https://bazzite.gg/) on my Gaming laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://archlinux.org/) on my Gaming laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
 
 I just mess around with Python and C++ scripting.
 
@@ -12,10 +12,10 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,github,windows,linux,apple,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,github,linux,apple,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
-[![](https://skillicons.dev/icons?i=java,rust&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Open-Source apps I use!
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
