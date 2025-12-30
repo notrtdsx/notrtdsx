@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://archlinux.org/) on my laptop, and MacOS Ventura 12.7.4 on an old mid-2014 macbook pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [OpenSUSE Tumbleweed](https://www.opensuse.org/) on my laptop, and MacOS Ventura 12.7.4 on an old mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
@@ -8,7 +8,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 
 
 ## What I'm working on right now
-- [RoPY](https://github.com/notrtdsx/RoPY) - Shows info about a user on roblox by their User ID via the Roblox API. (for example, my User ID is 2031224455)
+- [RoPY](https://github.com/notrtdsx/RoPY) - Shows info about a user on roblox by their User ID via the Roblox API.
 - [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
