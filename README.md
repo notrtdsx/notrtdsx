@@ -18,12 +18,12 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Open-Source apps I use!
-* [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
+[**Vivaldi**](https://vivaldi.com) [Partially open source](https://https://vivaldi.com/) & secure email provider
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
-
 and many more.
 
+## Browsers
 ## Contact me here
 IRC: notvix1@irc.libera.chat
 
