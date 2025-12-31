@@ -15,7 +15,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 [![](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,github,linux,apple,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
-[![](https://skillicons.dev/icons?i=&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Open-Source apps I use!
 * [**Brave**](https://brave.com/) - [Open-source](https://github.com/brave/brave-browser) Chromium-based browser
