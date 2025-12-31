@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [OpenSUSE Tumbleweed](https://www.opensuse.org/) on my laptop, and MacOS Ventura 12.7.4 on an old mid-2014 Macbook Pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://www.archlinux.org/) on my laptop, and MacOS Ventura 12.7.4 on an old mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
@@ -28,4 +28,4 @@ and many more.
 IRC: notvix1@irc.libera.chat
 
 ## Chess
-Heres my [Chess.com](https://www.chess.com/member/notnord13) and my [Lichess](https://lichess.org/@/notonn172). I suck at chess.
+Heres my [Chess.com](https://www.chess.com/member/notnord13) and my [Lichess](https://lichess.org/@/notonn172).
