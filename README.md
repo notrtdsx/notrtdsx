@@ -23,7 +23,6 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service.
 and many more.
 
-## Browsers
 ## Contact me here
 IRC: notvix1@irc.libera.chat
 
