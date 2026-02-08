@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Arch Linux](https://www.archlinux.org/) on my laptop, and [Ubuntu 24.04.3](https://ubuntu.com/desktop) on my old mid-2014 Macbook Pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Fedora Linux with KDE](https://fedoraproject.org/kde/) on my laptop, and [Fedora Linux with XFCE](https://fedoraproject.org/spins/xfce/) on my old mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
@@ -16,13 +16,13 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
 
-## Open-Source apps I use!
+## Some of the Open-Source apps I use!
 * [**Vivaldi**](https://vivaldi.com) - Norwegian-made web browser that respects your Privacy, [Partially open-source](https://vivaldi.com/blog/technology/why-isnt-vivaldi-browser-open-source/)
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider.
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service.
 and many more.
 
-## Contact me here
+## Contact me here, preferably with Pidgin
 IRC: notvix1@irc.libera.chat
 
 ## Chess
