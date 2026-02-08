@@ -22,7 +22,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service.
 and many more.
 
-## Contact me here, preferably with Pidgin
+## Contact me here, preferably with [Pidgin](https://www.pidgin.im/)
 IRC: notvix1@irc.libera.chat
 
 ## Chess
