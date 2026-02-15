@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Fedora Linux with KDE](https://fedoraproject.org/kde/) on my laptop, and [Fedora Linux with XFCE](https://fedoraproject.org/spins/xfce/) on my old mid-2014 Macbook Pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Fedora Linux with KDE](https://fedoraproject.org/kde/) on my laptop, and Xubuntu on my old mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
