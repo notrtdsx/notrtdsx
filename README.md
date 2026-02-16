@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) on my laptop, and MacOS 10.9.5 on my mid-2014 Macbook Pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) on my laptop, and [MacOS 10.9.5 Mavericks](https://en.wikipedia.org/wiki/OS_X_Mavericks) on my mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
