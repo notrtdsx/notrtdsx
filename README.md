@@ -1,6 +1,6 @@
 # Hey, I'm Matheo!
 I have been coding since 2024.
-Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [Fedora Linux with KDE](https://fedoraproject.org/kde/) on my laptop, and Xubuntu on my old mid-2014 Macbook Pro.
+Linux user since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) on my laptop, and MacOS 10.9.5 on my mid-2014 Macbook Pro.
 
 I just mess around with Python and C++ scripting.
 
@@ -11,7 +11,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,github,linux,windows,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,github,linux,apple,pycharm,clion,vscode,vim&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
