@@ -16,7 +16,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,go,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
-[![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Vivaldi**](https://vivaldi.com) - Norwegian-made web browser that respects your Privacy, [Partially open-source](https://vivaldi.com/blog/technology/why-isnt-vivaldi-browser-open-source/)
