@@ -10,10 +10,10 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 
 
 ## What I'm working on right now
-- [vgde](https://github.com/notrtdsx/vgde) - Shows info about games available on the RAWG site via their API
+- [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,go,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,go,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=rust&theme=dark&perline=10)](https://skillicons.dev)
