@@ -13,7 +13,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Currently trying these Programming Languages
 [![](https://skillicons.dev/icons?i=java&theme=dark&perline=10)](https://skillicons.dev)
