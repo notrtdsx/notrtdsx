@@ -4,7 +4,7 @@
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 Pro on my laptop, and [OS X Mavericks](https://en.wikipedia.org/wiki/OS_X_Mavericks) on my mid-2014 Macbook Pro.
 
-I just mess around with Python and C++ scripting.
+I just mess around with Python scripting.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
