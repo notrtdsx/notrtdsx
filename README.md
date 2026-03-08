@@ -22,6 +22,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 * [**Firefox**](https://firefox.com) - Open-source web browser that puts your privacy first. [Open-source](https://github.com/mozilla-firefox/firefox)
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider.
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service.
+
 and many more.
 
 ## Contact me here, preferably with [Pidgin](https://www.pidgin.im/)
