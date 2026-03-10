@@ -26,7 +26,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 and many more.
 
 ## Contact me here, preferably with [Pidgin](https://www.pidgin.im/)
-IRC: notvix1@irc.libera.chat
+IRC: notvix1 @ irc.libera.chat
 
 ## Chess
 Heres my [Chess.com](https://www.chess.com/member/notnord13) and my [Lichess](https://lichess.org/@/notonn172).
