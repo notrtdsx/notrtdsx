@@ -2,7 +2,8 @@
 (in English, pronounced /məˈteɪ.oʊ/)
 
 I have been coding since 2024.
-Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 Pro on my laptop, and macOS Catalina on my mid-2014 Macbook Pro.
+Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 Pro on my laptop, and EndeavourOS
+on my mid-2014 Macbook Pro.
 
 I just mess around with scripting in Python and NodeJS.
 
