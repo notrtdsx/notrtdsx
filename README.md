@@ -7,7 +7,7 @@ on my mid-2014 Macbook Pro.
 
 I just mess around with scripting in Python and NodeJS.
 
-Planning to make a small package manager at some point
+Planning to make a small package manager for i dunno.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
