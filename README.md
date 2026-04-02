@@ -8,8 +8,6 @@ Im also a producer & beatmaker!
 
 I just mess around with scripting in Python and NodeJS.
 
-todo: learn golang
-
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
 
