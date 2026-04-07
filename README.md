@@ -17,9 +17,6 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
-## Currently trying these Programming Languages
-[![](https://skillicons.dev/icons?i=go&theme=dark&perline=10)](https://skillicons.dev)
-
 ## Some of the Open-Source apps I use!
 * [**Firefox**](https://firefox.com) - [Open-source](https://github.com/mozilla-firefox/firefox) web browser that puts your privacy first.
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider.
