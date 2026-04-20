@@ -4,8 +4,6 @@
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 on my laptop, and Ubuntu 24.04.4 LTS on my mid-2014 Macbook Pro.
 
-Im also a producer & beatmaker!
-
 I just mess around with scripting in Python and NodeJS.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
