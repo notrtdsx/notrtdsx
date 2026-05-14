@@ -13,7 +13,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nvim,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,neovim,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Vivaldi**](https://vivaldi.com) - [Partially open-source](https://www.chromium.org/Home/) web browser (built on open-source Chromium, while Vivaldi's UI is proprietary) that puts your privacy first.
