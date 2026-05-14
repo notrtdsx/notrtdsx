@@ -11,6 +11,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 
 ## What I'm working on right now
 - [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
+- [nvim](https://github.com/notrtdsx/nvim) - my personal neovim config
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,neovim,npm,nodejs,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
