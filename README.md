@@ -14,7 +14,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [nvim](https://github.com/notrtdsx/nvim) - my personal neovim config
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,bash,kotlin,,neovim,clion,webstorm,androidstudio,windows,linux&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,bash,kotlin,,neovim,clion,webstorm,androidstudio,windows,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Vivaldi**](https://vivaldi.com) - [Partially open-source](https://www.chromium.org/Home/) web browser (built on open-source Chromium, while Vivaldi's UI is proprietary) that puts your privacy first.
