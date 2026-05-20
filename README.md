@@ -13,6 +13,8 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
 - [nvim](https://github.com/notrtdsx/nvim) - my personal neovim config
 
+Most of my projects are in the process of moving to my [Codeberg](https://codeberg.org/notrtdsx)!
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,bash,kotlin,neovim,clion,webstorm,androidstudio,windows,linux&theme=dark&perline=5)](https://skillicons.dev)
 
