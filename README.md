@@ -1,5 +1,5 @@
-## Projects are moving to Codeberg
-Most of my projects are in the process of moving to my [Codeberg](https://codeberg.org/notrtdsx).
+## Projects are now on Codeberg
+All of my current projects have been successfully moved to my [Codeberg](https://codeberg.org/notrtdsx). New repositories will be created there going forward.
 
 # Hey, I'm Matheo!
 (in English, pronounced /məˈteɪ.oʊ/)
