@@ -1,8 +1,8 @@
-# Hey, I'm Matheo!
-(in English, pronounced /məˈteɪ.oʊ/)
-
 ## Projects are moving to Codeberg
 Most of my projects are in the process of moving to my [Codeberg](https://codeberg.org/notrtdsx).
+
+# Hey, I'm Matheo!
+(in English, pronounced /məˈteɪ.oʊ/)
 
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 on my laptop, and macOS 10.11 El Capitan on my mid-2014 Macbook Pro.
@@ -15,8 +15,6 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 ## What I'm working on right now
 - [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
 - [nvim](https://github.com/notrtdsx/nvim) - my personal neovim config
-
-Most of my projects are in the process of moving to my [Codeberg](https://codeberg.org/notrtdsx)!
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,bash,kotlin,neovim,clion,webstorm,androidstudio,windows,linux&theme=dark&perline=5)](https://skillicons.dev)
