@@ -1,6 +1,9 @@
 # Hey, I'm Matheo!
 (in English, pronounced /məˈteɪ.oʊ/)
 
+## Projects are moving to Codeberg
+Most of my projects are in the process of moving to my [Codeberg](https://codeberg.org/notrtdsx).
+
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 on my laptop, and macOS 10.11 El Capitan on my mid-2014 Macbook Pro.
 
