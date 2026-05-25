@@ -1,5 +1,5 @@
-## Projects are now on codeberg
-All of my current projects have been successfully moved to my [Codeberg](https://codeberg.org/notrtdsx)!
+## Projects are also on codeberg
+All of my current projects can now be found on my [Codeberg](https://codeberg.org/notrtdsx)!
 
 # Hey, I'm Matheo!
 (in English, pronounced /məˈteɪ.oʊ/)
