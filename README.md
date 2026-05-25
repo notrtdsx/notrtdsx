@@ -7,17 +7,18 @@ All of my current projects have been successfully moved to my [Codeberg](https:/
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Windows 10 on my laptop, and macOS 10.11 El Capitan on my mid-2014 Macbook Pro.
 
-I just mess around with scripting in C, C++ and NodeJS.
+I just mess around with scripting in Python sometimes, but mostly NodeJS.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
 
 ## What I'm working on right now
-- [clio](https://github.com/notrtdsx/clio) - command line radio for browsing and playing internet stations from your terminal
+- [clio](https://github.com/notrtdsx/clio) - play internet radio from your terminal
 - [nvim](https://github.com/notrtdsx/nvim) - my personal neovim config
+- [vaer](https://github.com/notrtdsx/vaer) - simple weather in your terminal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,neovim,windows,linux&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,neovim,vscode,windows,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Vivaldi**](https://vivaldi.com) - [Partially open-source](https://www.chromium.org/Home/) web browser (built on open-source Chromium, while Vivaldi's UI is proprietary) that puts your privacy first.
