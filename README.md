@@ -21,7 +21,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,neovim,windows,apple,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
-* [**Firefox**](https://www.firefox.com/) - Free, open-source, and privacy-focused web browser developed by Mozilla. [Open-source](https://github.com/mozilla-firefox/firefox) 
+* [**Firefox**](https://www.firefox.com/) - Free, [Open-source](https://github.com/mozilla-firefox/firefox), and privacy-focused web browser developed by Mozilla.
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider.
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service.
 
