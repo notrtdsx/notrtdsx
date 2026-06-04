@@ -1,5 +1,5 @@
 ## Moved to Gitlab for the time being
-Current projects will be created on my [Gitlab](https://gitlab.com/notrtdsx)
+Future and Current projects now reside at [Gitlab](https://gitlab.com/notrtdsx)
 
 # Hey, I'm Matheo!
 (in English, pronounced /məˈteɪ.oʊ/)
