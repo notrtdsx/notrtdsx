@@ -1,5 +1,5 @@
-## Projects are also on codeberg
-All of my current projects can now be found on my [Codeberg](https://codeberg.org/notrtdsx)!
+## Moved to Gitlab for the time being
+Current projects will be created on my [Gitlab](https://gitlab.com/notrtdsx)
 
 # Hey, I'm Matheo!
 (in English, pronounced /məˈteɪ.oʊ/)
