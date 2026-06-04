@@ -18,7 +18,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [vaer](https://github.com/notrtdsx/vaer) - simple weather in your terminal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,cpp,nodejs,neovim,windows,apple,linux&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs,neovim,windows,apple,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Firefox**](https://www.firefox.com/) - Free, [Open-source](https://github.com/mozilla-firefox/firefox), and privacy-focused web browser developed by [Mozilla](https://www.mozilla.org).
