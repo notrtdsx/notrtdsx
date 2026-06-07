@@ -30,11 +30,11 @@ and many more.
 ## Chess
 Heres my [Chess.com](https://www.chess.com/member/notnord13) and my [Lichess](https://lichess.org/@/notonn172).
 
-## Football/Soccer
+## Football
 **Newcastle** - Just a casual fan who loves watching them play. there's something about the club that just clicks.
 
 ## Gaming
-**FC 26** - My current favorite game. Kick Off mode is where it's at -n othing beats the quick, competitive matches and the rush of a good win.
+**FC 26** - My current favorite game. Kick Off mode is where it's at - nothing beats the quick, competitive matches and the rush of a good win.
 
 ## Contact me here via IRC, preferably with [Pidgin](https://www.pidgin.im/)
 notvix1 @ irc.libera.chat
