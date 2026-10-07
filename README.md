@@ -1,7 +1,7 @@
 ## Moved to Gitlab for the time being
 Future and Current projects now reside at [my Gitlab](https://gitlab.com/notrtdsx)
 
-# Hey, I'm matheo!
+# Hey, I'm rtdsx!
 (in English, pronounced /ˌɑːr tiː diː ɛs ɛks/)
 
 I have been coding since 2024.
