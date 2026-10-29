@@ -7,7 +7,7 @@ Future and Current projects now reside at [my Gitlab](https://gitlab.com/notrtds
 I have been coding since 2024.
 Linux user on and off since 2022. The first Distro i used was Ubuntu Jammy Jellyfish (22.04), now i use Linux Mint on my laptop, and macOS 10.9.5 Mavericks on my mid-2014 Macbook Pro.
 
-I just mess around with scripting in Python sometimes, but mostly NodeJS.
+I just mess around with scripting in Python sometimes, but mostly NodeJS and Lua.
 
 I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-native) to Norwegian!
 
@@ -17,7 +17,7 @@ I've also translated [Jazz² Resurrection](https://github.com/deathkiller/jazz2-
 - [nvim](https://gitlab.com/notrtdsx/nvim) - my personal neovim config
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs,neovim,windows,apple&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,c,lua,nodejs,neovim,windows,linux,apple&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Some of the Open-Source apps I use!
 * [**Firefox**](https://firefox.com/) - Free, [open source](https://github.com/mozilla-firefox/firefox) and privacy focused browser by Mozilla.
